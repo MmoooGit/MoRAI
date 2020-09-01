@@ -1,0 +1,1 @@
+<http://opendata.nhs.uk/id/geo-coordinates/longitude/-2.1186/latitude/52.804> a <http://schema.org/GeoCoordinates>;<http://schema.org/latitude>50.0;<http://schema.org/longitude> 80.3 .
